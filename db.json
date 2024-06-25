@@ -1,4 +1,30 @@
 {
+  "hotDiscounts": [
+      {
+                "imgSrc": "https://en.wikipedia.org/wiki/Cat#/media/File:Cat_August_2010-4.jpg",
+                "hotDiscountCountdownTime": 86400000,
+                "title": "Маникюр с покрытием гель лаком",
+                "time": "1 час. 30 мин.",
+                "price": 1200,
+                "oldPrice": 1500
+      },
+      {
+        "imgSrc": "https://en.wikipedia.org/wiki/Cat#/media/File:Cat_August_2010-4.jpg",
+        "hotDiscountCountdownTime": 86400000,
+        "title": "Маникюр с покрытием гель лаком",
+        "time": "1 час. 30 мин.",
+        "price": 1200,
+        "oldPrice": 1500
+      },
+      {
+        "imgSrc": "https://en.wikipedia.org/wiki/Cat#/media/File:Cat_August_2010-4.jpg",
+        "hotDiscountCountdownTime": 86400000,
+        "title": "Маникюр с покрытием гель лаком",
+        "time": "1 час. 30 мин.",
+        "price": 1200,
+        "oldPrice": 1500
+      }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
