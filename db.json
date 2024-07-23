@@ -29,7 +29,7 @@
       {
         "imgSrc": "https://i.ibb.co/194rPpp/img-service.png",
         "title": "Название пакета услуга или другое маркетинговое наименование",
-        "servicesCount": 2,
+        "servicesCount": 3,
         "firstMeet": true,
         "discountTime": true,
         "discountTimeText": "26 февраля",
@@ -48,13 +48,19 @@
             "price": 1200,
             "oldPrice": 1500,
             "time": "1 час. 30 мин."
+          },
+          {
+            "title": "Маникюр с покрытием гель лаком",
+            "price": 1200,
+            "oldPrice": 1500,
+            "time": "1 час. 30 мин."
           }
         ]
       },
       {
         "imgSrc": "https://i.ibb.co/194rPpp/img-service.png",
         "title": "Название пакета услуга или другое маркетинговое наименование",
-        "servicesCount": 2,
+        "servicesCount": 3,
         "firstMeet": true,
         "discountTime": true,
         "discountTimeText": "26 февраля",
@@ -73,13 +79,19 @@
             "price": 1200,
             "oldPrice": 1500,
             "time": "1 час. 30 мин."
+          },
+          {
+            "title": "Маникюр с покрытием гель лаком",
+            "price": 1200,
+            "oldPrice": 1500,
+            "time": "1 час. 30 мин."
           }
         ]
       },
       {
         "imgSrc": "https://i.ibb.co/194rPpp/img-service.png",
         "title": "Название пакета услуга или другое маркетинговое наименование",
-        "servicesCount": 2,
+        "servicesCount": 3,
         "firstMeet": true,
         "discountTime": true,
         "discountTimeText": "26 февраля",
@@ -87,6 +99,12 @@
         "isPromotion": true,
         "description": "<p>Векторное вытяжение позвоночника + тепловой роликовый вибромассаж - 600 рублей! Прием ведут опытные специалисты с большим опытом работы.</p><br><p>Дополнительную информацию и полные условия акции Вы можете узнать на нашем сайте, а также по телефону центра.</p>",
         "services": [
+          {
+            "title": "Маникюр с покрытием гель лаком",
+            "price": 1200,
+            "oldPrice": 1500,
+            "time": "1 час. 30 мин."
+          },
           {
             "title": "Маникюр с покрытием гель лаком",
             "price": 1200,
