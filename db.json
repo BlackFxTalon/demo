@@ -24,5 +24,31 @@
         "price": 1200,
         "oldPrice": 1500
       }
+  ],
+  "discounts": [
+      {
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/181px-Cat_August_2010-4.jpg",
+        "hotDiscountCountdownTime": 86400000,
+        "title": "Маникюр с покрытием гель лаком",
+        "time": "1 час. 30 мин.",
+        "price": 1200,
+        "oldPrice": 1500
+      },
+      {
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/181px-Cat_August_2010-4.jpg",
+        "hotDiscountCountdownTime": 86400000,
+        "title": "Маникюр с покрытием гель лаком",
+        "time": "1 час. 30 мин.",
+        "price": 1200,
+        "oldPrice": 1500
+      },
+      {
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Cat_August_2010-4.jpg/181px-Cat_August_2010-4.jpg",
+        "hotDiscountCountdownTime": 86400000,
+        "title": "Маникюр с покрытием гель лаком",
+        "time": "1 час. 30 мин.",
+        "price": 1200,
+        "oldPrice": 1500
+      }
   ]
 }
