@@ -28,27 +28,33 @@
   "discounts": [
       {
         "imgSrc": "https://i.ibb.co/194rPpp/img-service.png",
-        "hotDiscountCountdownTime": 86400000,
-        "title": "Маникюр с покрытием гель лаком",
-        "time": "1 час. 30 мин.",
-        "price": 1200,
-        "oldPrice": 1500
+        "title": "Название пакета услуга или другое маркетинговое наименование",
+        "servicesCount": 2,
+        "firstMeet": true,
+        "discountTime": true,
+        "discountTimeText": "26 февраля",
+        "discountCount": 30,
+        "isPromotion": true
       },
       {
         "imgSrc": "https://i.ibb.co/194rPpp/img-service.png",
-        "hotDiscountCountdownTime": 86400000,
-        "title": "Маникюр с покрытием гель лаком",
-        "time": "1 час. 30 мин.",
-        "price": 1200,
-        "oldPrice": 1500
+        "title": "Название пакета услуга или другое маркетинговое наименование",
+        "servicesCount": 2,
+        "firstMeet": true,
+        "discountTime": true,
+        "discountTimeText": "26 февраля",
+        "discountCount": 30,
+        "isPromotion": true
       },
       {
         "imgSrc": "https://i.ibb.co/194rPpp/img-service.png",
-        "hotDiscountCountdownTime": 86400000,
-        "title": "Маникюр с покрытием гель лаком",
-        "time": "1 час. 30 мин.",
-        "price": 1200,
-        "oldPrice": 1500
+        "title": "Название пакета услуга или другое маркетинговое наименование",
+        "servicesCount": 2,
+        "firstMeet": true,
+        "discountTime": true,
+        "discountTimeText": "26 февраля",
+        "discountCount": 30,
+        "isPromotion": true
       }
   ]
 }
