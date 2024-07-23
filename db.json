@@ -117,7 +117,55 @@
             "price": 1200,
             "oldPrice": 1500,
             "time": "1 час. 30 мин.",
-            "selected": false
+            "selected": false,
+            "todayRecords": [
+              {
+                "imgSrc": "https://i.ibb.co/194rPpp/img-service.png",
+                "title": "Анастасия Бошмак",
+                "subtitle": "Мастер маникюра",
+                "rating": "0.0",
+                "dates": [
+                  "2024-06-28",
+                  "2024-06-29",
+                  "2024-06-30"
+                ]
+              },
+              {
+                "imgSrc": "https://i.ibb.co/194rPpp/img-service.png",
+                "title": "Анастасия Бошмак",
+                "subtitle": "Мастер маникюра",
+                "rating": "0.0",
+                "dates": [
+                  "2024-06-28",
+                  "2024-06-29",
+                  "2024-06-30"
+                ]
+              }
+            ],
+            "tomorrowRecords": [
+                {
+                  "imgSrc": "https://i.ibb.co/194rPpp/img-service.png",
+                  "title": "Анастасия Бошмак",
+                  "subtitle": "Мастер маникюра",
+                  "rating": "0.0",
+                  "dates": [
+                    "2024-06-28",
+                    "2024-06-29",
+                    "2024-06-30"
+                  ]
+                },
+                {
+                  "imgSrc": "https://i.ibb.co/194rPpp/img-service.png",
+                  "title": "Анастасия Бошмак",
+                  "subtitle": "Мастер маникюра",
+                  "rating": "0.0",
+                  "dates": [
+                    "2024-06-28",
+                    "2024-06-29",
+                    "2024-06-30"
+                  ]
+                }
+            ]
           },
           {
             "id": 1,
@@ -125,7 +173,55 @@
             "price": 1200,
             "oldPrice": 1500,
             "time": "1 час. 30 мин.",
-            "selected": false
+            "selected": false,
+            "todayRecords": [
+              {
+                "imgSrc": "https://i.ibb.co/194rPpp/img-service.png",
+                "title": "Анастасия Бошмак",
+                "subtitle": "Мастер маникюра",
+                "rating": "0.0",
+                "dates": [
+                  "2024-06-28",
+                  "2024-06-29",
+                  "2024-06-30"
+                ]
+              },
+              {
+                "imgSrc": "https://i.ibb.co/194rPpp/img-service.png",
+                "title": "Анастасия Бошмак",
+                "subtitle": "Мастер маникюра",
+                "rating": "0.0",
+                "dates": [
+                  "2024-06-28",
+                  "2024-06-29",
+                  "2024-06-30"
+                ]
+              }
+            ],
+            "tomorrowRecords": [
+                {
+                  "imgSrc": "https://i.ibb.co/194rPpp/img-service.png",
+                  "title": "Анастасия Бошмак",
+                  "subtitle": "Мастер маникюра",
+                  "rating": "0.0",
+                  "dates": [
+                    "2024-06-28",
+                    "2024-06-29",
+                    "2024-06-30"
+                  ]
+                },
+                {
+                  "imgSrc": "https://i.ibb.co/194rPpp/img-service.png",
+                  "title": "Анастасия Бошмак",
+                  "subtitle": "Мастер маникюра",
+                  "rating": "0.0",
+                  "dates": [
+                    "2024-06-28",
+                    "2024-06-29",
+                    "2024-06-30"
+                  ]
+                }
+            ]
           },
           {
             "id": 2,
@@ -133,7 +229,55 @@
             "price": 1200,
             "oldPrice": 1500,
             "time": "1 час. 30 мин.",
-            "selected": false
+            "selected": false,
+            "todayRecords": [
+              {
+                "imgSrc": "https://i.ibb.co/194rPpp/img-service.png",
+                "title": "Анастасия Бошмак",
+                "subtitle": "Мастер маникюра",
+                "rating": "0.0",
+                "dates": [
+                  "2024-06-28",
+                  "2024-06-29",
+                  "2024-06-30"
+                ]
+              },
+              {
+                "imgSrc": "https://i.ibb.co/194rPpp/img-service.png",
+                "title": "Анастасия Бошмак",
+                "subtitle": "Мастер маникюра",
+                "rating": "0.0",
+                "dates": [
+                  "2024-06-28",
+                  "2024-06-29",
+                  "2024-06-30"
+                ]
+              }
+            ],
+            "tomorrowRecords": [
+                {
+                  "imgSrc": "https://i.ibb.co/194rPpp/img-service.png",
+                  "title": "Анастасия Бошмак",
+                  "subtitle": "Мастер маникюра",
+                  "rating": "0.0",
+                  "dates": [
+                    "2024-06-28",
+                    "2024-06-29",
+                    "2024-06-30"
+                  ]
+                },
+                {
+                  "imgSrc": "https://i.ibb.co/194rPpp/img-service.png",
+                  "title": "Анастасия Бошмак",
+                  "subtitle": "Мастер маникюра",
+                  "rating": "0.0",
+                  "dates": [
+                    "2024-06-28",
+                    "2024-06-29",
+                    "2024-06-30"
+                  ]
+                }
+            ]
           }
         ]
       }
